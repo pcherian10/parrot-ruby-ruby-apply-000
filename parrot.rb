@@ -1,4 +1,4 @@
 def parrot (str)
   puts str  
-  str
+  "Squawk"
 end
