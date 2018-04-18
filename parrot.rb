@@ -1,4 +1,4 @@
-def parrot (str, default = "Squawk")
-  
-  
+def parrot (default = "Squawk")
+  puts default
+  return default
 end
