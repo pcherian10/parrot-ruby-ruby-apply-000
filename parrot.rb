@@ -1,4 +1,4 @@
 def parrot (*p)
-  puts a
+  puts 
   return a
 end
