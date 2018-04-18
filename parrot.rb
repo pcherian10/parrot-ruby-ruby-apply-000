@@ -1,4 +1,4 @@
-def parrot (a, default = "Squawk")
+def parrot (*p)
   puts a
   return a
 end
