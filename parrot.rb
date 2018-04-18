@@ -1,12 +1,4 @@
-def parrot (str)
+def parrot (str, default = "Squawk")
   
-  if str
-    puts str
-    return str
-  
-  else
-    return "Squawk"
-  
-  end
   
 end
